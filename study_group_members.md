@@ -4,7 +4,7 @@ Study Group Members
 | ------------- |:-------------:| ------:|
 | Warren      | Jacobus | wjacobus  |
 | Peter      | Van Heusdan      |   pvanheus  |
-| Emily | Stander      | EmilyAmor     |
+| Yamkela | Mgwatyu      | mgwatyu     |
 | put name here | put surname here      | put username here     |
 | put name here | put surname here      | put username here     |
 | put name here | put surname here      | put username here     |
