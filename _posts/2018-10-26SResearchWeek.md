@@ -4,6 +4,6 @@ text: "Peter and Tracey will be presenting on the Study Group at the UWC Researc
 location: "School of Public Health UWC, Room 1A"
 link: https://github.com/SANBI-SA/studyGroup/issues/34
 date: 2018-10-26
-startTime: "10\:20"
-endTime: "11\:50"
+startTime: "10:20"
+endTime: "11:50"
 ---
